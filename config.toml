@@ -1,5 +1,6 @@
 
-baseURL = "https://example.com"
+baseURL = "https://me.suwdo.com"
+publishDir = "docs"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
